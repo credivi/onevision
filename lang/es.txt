@@ -1,0 +1,9 @@
+titulo-web=>Marketing Digital - One Vision
+
+about=>Nosotros
+services=>servicios
+plans=>planes
+contact=>contacto
+
+slide2=>Creatividad
+slide3=>Diseño<br>Digital
