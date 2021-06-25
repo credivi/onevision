@@ -1,6 +1,6 @@
 
 
-var mensaje ="Usted se esta contactando con CREDIVI, Marqueting Digital";
+var mensaje ="Usted se esta contactando con ONE-VISION, Marqueting Digital";
 
 //redes
 var facebook = "https://www.facebook.com/credivi/"
