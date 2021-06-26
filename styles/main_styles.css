@@ -1559,11 +1559,11 @@ section
 0. Languages
 *********************/
 
-.icono{
- 	height: 2em;
- 	margin-left: 2em;
-	list-style:none;
-}
 .lang{
 	list-style:none;
+}
+.lang img{
+	height: 2em;
+	margin-left: 2em;
+    list-style:none;
 }
