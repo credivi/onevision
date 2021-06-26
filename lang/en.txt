@@ -1,4 +1,5 @@
 titulo-web=>Digital Marketing - One Vision
+icono=><img class="icono" src="images/en.png">
 
 about=>about us
 services=>services

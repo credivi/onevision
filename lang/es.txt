@@ -1,4 +1,5 @@
 titulo-web=>Marketing Digital - One Vision
+icono=><img class="icono" src="images/es.png">
 
 about=>Nosotros
 services=>servicios

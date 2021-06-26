@@ -1559,9 +1559,11 @@ section
 0. Languages
 *********************/
 
-.loading-lang{
-    opacity: 0;
-  }
-  .loading-lang.show{
-    opacity: 1;
-  }
+.icono{
+ 	height: 2em;
+ 	margin-left: 2em;
+	list-style:none;
+}
+.lang{
+	list-style:none;
+}

@@ -375,7 +375,7 @@ estilo de los titulos del slide en celular
 
 	#t1 span, #t2 span, #t3 span{
 		font-size: 3em;
-		//text-shadow: -2px 1px;
+		/*text-shadow: -2px 1px;*/
 	}
 
 
